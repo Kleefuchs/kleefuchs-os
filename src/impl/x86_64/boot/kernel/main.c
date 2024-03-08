@@ -1,4 +1,4 @@
-#include "print.h"
+#include "consoleIO.h"
 
 void kernel_main() {
     print_clear();
